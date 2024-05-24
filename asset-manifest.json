@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hanjw524/static/css/main.e6099af5.css",
+    "main.js": "/hanjw524/static/js/main.ff26cd67.js",
+    "index.html": "/hanjw524/index.html",
+    "main.e6099af5.css.map": "/hanjw524/static/css/main.e6099af5.css.map",
+    "main.ff26cd67.js.map": "/hanjw524/static/js/main.ff26cd67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6099af5.css",
+    "static/js/main.ff26cd67.js"
+  ]
+}
