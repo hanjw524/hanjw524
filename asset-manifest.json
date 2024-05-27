@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/URL/https://hanjw524.github.io/hanjw524/static/css/main.31d6cfe0.css",
-    "main.js": "/URL/https://hanjw524.github.io/hanjw524/static/js/main.0e793d90.js",
-    "index.html": "/URL/https://hanjw524.github.io/hanjw524/index.html",
-    "main.0e793d90.js.map": "/URL/https://hanjw524.github.io/hanjw524/static/js/main.0e793d90.js.map"
+    "main.css": "/hanjw524/static/css/main.31d6cfe0.css",
+    "main.js": "/hanjw524/static/js/main.3ef7b3ef.js",
+    "index.html": "/hanjw524/index.html",
+    "main.3ef7b3ef.js.map": "/hanjw524/static/js/main.3ef7b3ef.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.0e793d90.js"
+    "static/js/main.3ef7b3ef.js"
   ]
 }
